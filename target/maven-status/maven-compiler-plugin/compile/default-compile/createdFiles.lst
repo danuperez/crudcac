@@ -1,0 +1,8 @@
+com\mycompany\crudcac\model\participantes.class
+com\mycompany\crudcac\Participante.class
+com\mycompany\crudcac\model\Modelo.class
+com\mycompany\crudcac\model\ModeloHC.class
+com\mycompany\crudcac\model\ModeloMySQL.class
+com\mycompany\crudcac\resources\JakartaEE91Resource.class
+com\mycompany\crudcac\model\Conexion.class
+com\mycompany\crudcac\JakartaRestConfiguration.class
